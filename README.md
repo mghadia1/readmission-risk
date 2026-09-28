@@ -6,7 +6,7 @@ Which diabetic hospital patients will be readmitted within 30 days? This project
 - the flag threshold is set by how many follow-up calls a team can make;
 - the model is audited across race, sex, and age groups.
 
-> **Status: learning project (September 2026).** It is built, tested, and run on real data, but I am still practising explaining it. It is local only and has not been pushed. This is **a study on 1999–2008 US hospital records, not a clinical tool**, and it should not be used to make decisions about patients.
+> **Status: learning project (September 2026).** It is built, tested, and run on real data, but I am still practising explaining it. This is **a study on 1999–2008 US hospital records, not a clinical tool**, and it should not be used to make decisions about patients.
 
 ![What a follow-up budget buys](docs/figures/capacity_curve.png)
 
